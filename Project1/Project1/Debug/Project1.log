@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\mlade\Desktop\postfiksni STEK\Project1\Project1\Source.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mlade\Desktop\postfiksni STEK\Project1\Project1\Source.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mlade\Desktop\postfiksni STEK\Project1\Project1\Source.cpp(171,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mlade\Desktop\postfiksni STEK\Project1\Project1\Source.cpp(99): warning C4715: 'checkInputType': not all control paths return a value
+  Project1.vcxproj -> C:\Users\mlade\Desktop\postfiksni STEK\Project1\Debug\Project1.exe
